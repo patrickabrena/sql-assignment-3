@@ -184,7 +184,7 @@
             <mxPoint x="570" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsLNIosyBgr0X99fFPmB-9" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;travels&lt;/font&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" vertex="1" connectable="0" parent="wsLNIosyBgr0X99fFPmB-7">
+        <mxCell id="wsLNIosyBgr0X99fFPmB-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;travels&lt;/font&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" vertex="1" connectable="0" parent="wsLNIosyBgr0X99fFPmB-7">
           <mxGeometry x="-0.0655" y="-4" relative="1" as="geometry">
             <mxPoint x="-16" y="8" as="offset" />
           </mxGeometry>
@@ -199,7 +199,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsLNIosyBgr0X99fFPmB-21" value="hosts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wsLNIosyBgr0X99fFPmB-17">
+        <mxCell id="wsLNIosyBgr0X99fFPmB-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;hosts&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wsLNIosyBgr0X99fFPmB-17">
           <mxGeometry x="0.0349" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -211,6 +211,11 @@
             <Array as="points">
               <mxPoint x="797.28" y="410" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsLNIosyBgr0X99fFPmB-26" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;resides&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wsLNIosyBgr0X99fFPmB-24">
+          <mxGeometry x="0.3362" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
